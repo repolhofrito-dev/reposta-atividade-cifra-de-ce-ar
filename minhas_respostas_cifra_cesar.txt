@@ -1,0 +1,66 @@
+OPERAÇÃO CÓDIGO SECRETO — RESPOSTAS
+Nome: antony gabriel
+Turma: (em branco)
+Data: (em branco)
+
+MISSÃO 1
+Criptografado: UYEP PMRKYEKIQ GVME E IWXVYXYVE HI YQE TEKMRE AIF?
+Chave: chave 4
+Pergunta: qual linguagem cria a estrutura de uma pagina web
+Resposta: HTML
+Método: tentar até char
+
+MISSÃO 2
+Criptografado: XBHS SPUNBHNLT KLMPUL JVYLZ L LZAPSVZ KL BTH WHNPUH?
+Chave: chave  7
+Pergunta: qual linguagem define cores e estilos de uma pagina
+Resposta: css
+Método: da mesma forma da ultima
+
+MISSÃO 3
+Criptografado: ZDJU NMRCXA MN LXMRPX DCRURIJVXB YJAJ YAXPAJVJA?
+Chave: chave 9
+Pergunta: qual editor de código utilizamos para programar
+Resposta: vs code
+Método: respostas da anterior da anterior
+
+MISSÃO 4
+Criptografado: CGMX Q A ZAYQ PM FQOZUOM PQ FDAOMD XQFDME BAD PQEXAOMYQZFA?
+Chave: chave 12
+Pergunta: qual é o nome de técnica de trocar letras por deslocamento
+Resposta: cifra de cesar
+Método: da mesma for da anterior
+
+MISSÃO 5
+Criptografado: VZFQ J T STRJ IT HTSOZSYT IJ QJYWFX IJ F F E?
+Chave: chave 5
+Pergunta: qual é o nome do conjunto de letra de A a Z
+Resposta: alfabeto
+Método: dasma maneiras que as ultima
+
+MISSÃO 6
+Criptografado: IMSD HSDSNJS MKSEGK HSJS HJGLWYWJ G SUWKKG S MES UGFLS?
+Chave: 18
+Pergunta: qual palavra usamos para proteger o acesso a uma  conta
+Resposta: senha
+Método: dasma maneira
+
+CAÇA-PALAVRAS — CHAVE 3
+CESAR | Codificado: FHVDU | Início: Linha 4, coluna 8
+CHAVE | Codificado: FKDYH | Início: Linha 2, coluna 9
+DADOS | Codificado: GDGRV | Início: Linha 1, coluna 11
+SENHA | Codificado: VHQKD | Início: Linha 3, coluna 4
+CODIGO | Codificado: FRGLJR | Início: Linha 2, coluna 15
+ALFABETO | Codificado: DOIDEHWR | Início: Linha 7, coluna 8
+SEGURANCA | Codificado: VHJXUDQFD | Início: Linha 14, coluna 6
+MENSAGEM | Codificado: PHQVDJHP | Início: Linha 1, coluna 13
+CRIPTOGRAFIA | Codificado: FULSWRJUDILD | Início: Linha 3, coluna 14
+Palavras encontradas: CESAR, CHAVE, DADOS, SENHA, CODIGO, ALFABETO, SEGURANCA, MENSAGEM, CRIPTOGRAFIA
+Total: 9/9
+
+CRIAÇÃO PRÓPRIA
+Pergunta: você dormiu bem
+Chave: 16
+Criptografada: fymo tebwse low
+Chave do colega: (em branco)
+Pergunta do colega: (em branco)
